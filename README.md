@@ -6,6 +6,7 @@
 
 
 <h4>WordPress pointing to subdomain URL w/ TLS via Let's Encrypt</h4>
+
 ![wp-admin](https://github.com/ryangoddard1/wordpress-ec2/assets/84172786/5cccc761-b0b2-46d6-9069-64823303b18d)
 
 
