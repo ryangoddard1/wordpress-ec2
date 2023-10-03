@@ -3,7 +3,8 @@
 
 
 <h4>Apache default.conf server settings</h4>
-https://imgur.com/a/TatgYor
+<details></details>https://imgur.com/a/TatgYor
+</details>
 
 
 <h4>WordPress pointing to subdomain URL w/ TLS via Let's Encrypt</h4>
