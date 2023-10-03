@@ -3,7 +3,6 @@
 
 
 <h4>Apache default.conf server settings</h4>
-![awscloudinval](https://github.com/ryangoddard1/s3-invalidate-cloudfront-distro/assets/84172786/86d4b47e-49ee-4357-aa4c-a7299476909b)
 
 
 <h4>WordPress pointing to subdomain URL w/ TLS via Let's Encrypt</h4>
