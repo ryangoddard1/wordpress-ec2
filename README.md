@@ -3,7 +3,9 @@
 
 
 <h4>Apache default.conf server settings</h4>
-<details></details>https://imgur.com/a/TatgYor
+<details>
+  ![nanoconf](https://github.com/ryangoddard1/wordpress-ec2/assets/84172786/cbe0f07c-7820-49f8-95bf-15c3aeaba26c)
+
 </details>
 
 
