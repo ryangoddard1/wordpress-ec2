@@ -3,7 +3,7 @@
 
 
 <h4>Apache default.conf server settings</h4>
-![nanoconf](https://github.com/ryangoddard1/wordpress-ec2/assets/84172786/0579fb59-7cd1-4e20-8f98-e81a555e16bb)
+<a href="https://ibb.co/HHGw2y7"><img src="https://i.ibb.co/HHGw2y7/nanoconf.png" alt="nanoconf" border="0"></a>
 
 
 <h4>WordPress pointing to subdomain URL w/ TLS via Let's Encrypt</h4>
