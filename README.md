@@ -6,7 +6,8 @@
 [image](https://github.com/ryangoddard1/wordpress-ec2/assets/84172786/2ac58298-f899-4c4a-a4e9-56599bfd3f19)
 
 <h4>WordPress pointing to subdomain URL w/ TLS via Let's Encrypt</h4>
-[image](https://github.com/ryangoddard1/wordpress-ec2/assets/84172786/594cab18-2984-4c23-b07a-f9d04f94b94c)
+![image](https://github.com/ryangoddard1/wordpress-ec2/assets/84172786/d901173c-2e67-4113-b37f-0ea4c1b935f8)
+
 
 
 <h4>Services / Utilities:</h4>
