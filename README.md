@@ -3,6 +3,9 @@
 
 <h4>Architecture / Flowchart</h4>
 
+![ec2-wordpress2](https://github.com/ryangoddard1/wordpress-ec2/assets/84172786/00d65123-fad6-4823-b8ee-334cb3a161b5)
+
+
 <h4>Apache default.conf server settings</h4>
 
 ![nanoconf](https://github.com/ryangoddard1/wordpress-ec2/assets/84172786/f06522a0-9ce7-442c-941a-dd5864e2b7cc)
