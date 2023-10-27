@@ -16,14 +16,14 @@
 ![wp-admin](https://github.com/ryangoddard1/wordpress-ec2/assets/84172786/5cccc761-b0b2-46d6-9069-64823303b18d)
 
 <h4>Update 10/27</h4>
-<p>Verified able to restore EC2 Instance via EBS Snapshot saved as AMI
-Attempted creating gallery via WP - received “Is its parent directory writable by the server?
-Remedied by SSH'ing to server
-cd /var/www/html/wordpress/wp-content
-mkdir uploads (wasn't present)
-chown -R www-data:www-data uploads (permissions)
-chmod 755 -R uploads (permissions)
-sudo systemctl restart apache2 (reload to take effect)
+<p>Verified able to restore EC2 Instance via EBS Snapshot saved as AMI<br>
+Attempted creating gallery via WP - received “Is its parent directory writable by the server?<br>
+Remedied by SSH'ing to server<br>
+cd /var/www/html/wordpress/wp-content<br>
+mkdir uploads (wasn't present)<br>
+chown -R www-data:www-data uploads (permissions)<br>
+chmod 755 -R uploads (permissions)<br>
+sudo systemctl restart apache2 (reload to take effect)<br>
 Verified able to upload dog pics</p>
 
 ![image](https://github.com/ryangoddard1/wordpress-ec2/assets/84172786/b216d4ae-9e56-4536-a55a-f4fe677def14)
